@@ -5,10 +5,10 @@ const t = 1;
 const s = 2;
 
 // Declaring variables
-let a1;
-let b1;
-let c1;
-let d1;
+let a;
+let b;
+let c;
+let d;
 let input;
 let u;
 
